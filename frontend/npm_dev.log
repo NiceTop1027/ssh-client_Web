@@ -1,0 +1,160 @@
+
+> frontend@0.1.0 dev
+> next dev --turbopack
+
+   ▲ Next.js 15.5.4 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.0.5:3000
+
+ ✓ Starting...
+ ✓ Ready in 710ms
+ ○ Compiling /connect ...
+ ✓ Compiled /connect in 2s
+ GET /connect 200 in 2176ms
+ GET /connect 200 in 57ms
+ GET /connect 200 in 36ms
+ GET /connect 200 in 31ms
+ GET /connect 200 in 34ms
+ GET /connect 200 in 33ms
+ GET /connect 200 in 26ms
+ GET /connect 200 in 25ms
+ GET /connect 200 in 27ms
+ GET /connect 200 in 41ms
+ ✓ Compiled / in 244ms
+ GET / 200 in 437ms
+ GET /connect 200 in 45ms
+ ✓ Compiled /groups in 207ms
+ GET /groups 200 in 241ms
+ ✓ Compiled /_not-found/page in 142ms
+ GET /api/groups 404 in 238ms
+ GET /api/groups 404 in 241ms
+ ✓ Compiled /contact in 191ms
+ GET /contact 200 in 214ms
+ GET / 200 in 37ms
+ GET /connect 200 in 47ms
+ ✓ Compiled /keys in 255ms
+ GET /keys 200 in 283ms
+ GET /api/keys 404 in 86ms
+ GET /api/keys 404 in 84ms
+ GET /keys 200 in 38ms
+ GET /keys 200 in 25ms
+ GET /groups 200 in 31ms
+ GET /api/groups 404 in 97ms
+ GET /api/groups 404 in 100ms
+ POST /api/groups 404 in 50ms
+ POST /api/groups 404 in 55ms
+ POST /api/groups 404 in 43ms
+ ✓ Compiled /details in 187ms
+ GET /details 200 in 210ms
+ GET / 200 in 53ms
+ GET /connect 200 in 34ms
+ ✓ Compiled in 30ms
+ ✓ Compiled in 64ms
+ GET /connect 200 in 231ms
+ GET / 200 in 53ms
+ GET /connect 200 in 38ms
+ GET /groups 200 in 42ms
+ GET /api/groups 404 in 119ms
+ GET /api/groups 404 in 121ms
+ GET /keys 200 in 35ms
+ GET /api/keys 404 in 85ms
+ GET /api/keys 404 in 83ms
+ GET / 200 in 55ms
+ GET /groups 200 in 50ms
+ GET /api/groups 404 in 104ms
+ GET /api/groups 404 in 82ms
+ GET /keys 200 in 53ms
+ GET /api/keys 404 in 60ms
+ GET /api/keys 404 in 62ms
+ GET /connect 200 in 54ms
+ GET / 200 in 80ms
+ GET /connect 200 in 54ms
+ GET /connect 200 in 80ms
+ GET / 200 in 50ms
+ GET /connect 200 in 51ms
+ GET / 200 in 55ms
+ GET /connect 200 in 56ms
+ GET /groups 200 in 49ms
+ GET /api/groups 404 in 96ms
+ GET /api/groups 404 in 96ms
+ GET /keys 200 in 38ms
+ GET /api/keys 404 in 69ms
+ GET /api/keys 404 in 69ms
+ GET /connect 200 in 48ms
+ GET /connect 200 in 86ms
+ GET /connect 200 in 120ms
+ GET / 200 in 37ms
+ GET / 200 in 28ms
+ GET / 200 in 172ms
+ GET / 200 in 83ms
+ GET / 200 in 104ms
+ GET /connect 200 in 51ms
+ GET / 200 in 53ms
+ GET /connect 200 in 53ms
+ GET /keys 200 in 48ms
+ GET /api/keys 404 in 104ms
+ GET /api/keys 404 in 102ms
+ GET /groups 200 in 45ms
+ GET /api/groups 404 in 81ms
+ GET /api/groups 404 in 81ms
+ GET /details 200 in 49ms
+ GET /contact 200 in 36ms
+ GET /details 200 in 52ms
+ GET /contact 200 in 34ms
+ GET /details 200 in 33ms
+ GET /groups 200 in 48ms
+ GET /api/groups 404 in 102ms
+ GET /api/groups 404 in 102ms
+ GET /keys 200 in 40ms
+ GET /api/keys 404 in 70ms
+ GET /api/keys 404 in 71ms
+ GET /connect 200 in 50ms
+ GET /connect 200 in 106ms
+ GET / 200 in 48ms
+ GET /connect 200 in 50ms
+ GET /keys 200 in 51ms
+ GET /api/keys 404 in 93ms
+ GET /api/keys 404 in 94ms
+ GET /groups 200 in 34ms
+ GET /api/groups 404 in 75ms
+ GET /api/groups 404 in 75ms
+ GET /details 200 in 25ms
+ GET /groups 200 in 47ms
+ GET /api/groups 404 in 76ms
+ GET /api/groups 404 in 76ms
+ GET / 200 in 48ms
+ GET / 200 in 212ms
+ GET /api/connections%EB%A1%9C 404 in 68ms
+ GET / 200 in 50ms
+ GET /connect 200 in 56ms
+ GET /keys 200 in 69ms
+ GET /api/keys 404 in 107ms
+ GET /api/keys 404 in 106ms
+ GET /connect 200 in 56ms
+ GET / 200 in 171ms
+ GET /groups 200 in 51ms
+ GET /api/groups 404 in 90ms
+ GET /api/groups 404 in 91ms
+ POST /api/groups 404 in 87ms
+ POST /api/groups 404 in 58ms
+ POST /api/groups 404 in 52ms
+ POST /api/groups 404 in 62ms
+ GET /connect 200 in 50ms
+ GET / 200 in 52ms
+ GET /connect 200 in 68ms
+ GET /keys 200 in 50ms
+ GET /api/keys 404 in 73ms
+ GET /api/keys 404 in 74ms
+ GET /groups 200 in 47ms
+ GET /api/groups 404 in 97ms
+ GET /api/groups 404 in 98ms
+ GET /keys 200 in 32ms
+ GET /api/keys 404 in 72ms
+ GET /api/keys 404 in 74ms
+ POST /api/keys 404 in 64ms
+ POST /api/keys 404 in 65ms
+ POST /api/keys 404 in 50ms
+ GET /details 200 in 50ms
+ GET /contact 200 in 54ms
+ ✓ Compiled in 35ms
+[?25h

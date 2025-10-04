@@ -1,0 +1,23 @@
+{
+  "serverGroups": [
+    {
+      "id": 1,
+      "name": "My Test Group",
+      "connections": []
+    }
+  ],
+  "sshConnections": [
+    {
+      "id": 1,
+      "name": "nicetop@74.227.129.79:2025",
+      "host": "74.227.129.79",
+      "port": "2025",
+      "username": "nicetop"
+    },
+    {
+      "id": 2,
+      "name": "undefined@undefined:22",
+      "port": 22
+    }
+  ]
+}
